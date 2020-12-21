@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <Widget id="lol">
+        <VBoxLayout vparent="lol" id="lay" margin="40">
+            <Label vparent="lay" text="The area of G/L gamers!" id="tf1"/>
+        </VBoxLayout>
+    </Widget>
+</content>
