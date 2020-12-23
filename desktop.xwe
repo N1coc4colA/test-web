@@ -1,9 +1,9 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <content>
-    <Widget id="lol">
+    <Page id="lol">
         <VBoxLayout vparent="lol" id="lay" margin="40">
             <Label vparent="lay" text="Here, you'll be able to see the apps selectioned by yourself." id="tf1"/>
         </VBoxLayout>
-    </Widget>
+    </Page>
 </content>
