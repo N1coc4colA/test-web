@@ -1,9 +1,8 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <content>
-    <Widget id="lol">
+    <Page id="lol">
         <VBoxLayout vparent="lol" id="lay" margin="40">
             <Label vparent="lay" text="The professionals of the image could be come here" id="tf1"/>
         </VBoxLayout>
-    </Widget>
+    </Page>
 </content>
