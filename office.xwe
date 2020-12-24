@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <Page id="lol">
+        <VBoxLayout vparent="lol" id="lay" margin="40">
+            <Label vparent="lay" text="The best office apps. Like ToDo, WPS, or such things." id="tf1"/>
+        </VBoxLayout>
+    </Page>
+</content>
